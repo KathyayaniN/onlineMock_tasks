@@ -1,3 +1,4 @@
+// You can change the n value here;
 let n = 3; 
 Generating_balanced_brackets(n);
 function Generating_balanced_brackets(n){
