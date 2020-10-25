@@ -1,5 +1,5 @@
-// let optional_class_schedule = [[10/20/20 20pm, 10/21/20 14pm], [10/21/20 2am, 10/21/20 18pm]]
-// let class_schedule = [[10/20/20 12pm, 10/21/20 8am], [10/20/20 16pm, 10/21/20 12pm]]
+// let optional_class_schedule = [[2020-10-20 20:00:00, 2020-10-21 14:00:00], [2020-10-21 02:00:00, 2020-21-10 18:00:00]]
+// let class_schedule = [[2020-10-20 12:00:00, 2020-10-21 08:00:00], [2020-10-20 16:00:00, 2020-10-21 12:00:00]]
 // These are arrays i have taken 
 // I have consider date and time in epoc time 
 let optional_class_schedule = [[1603224000, 1603245600],[1603288800,1603303200]]
